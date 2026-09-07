@@ -42,36 +42,3 @@ I am an AI/ML Engineer with a strong builder’s instinct, specializing in engin
 *Next.js, FastAPI, Python, SQLite, XGBoost, Llama 3.2, Whisper, Razorpay API*
 *   **Predictive ML Triage:** Engineered a dynamic routing system using XGBoost to handle failed Razorpay transactions across B2B and B2C pipelines based on probability scoring.
 *   **Voice AI Negotiation:** Developed a B2B voice negotiation engine integrating local Whisper and Llama 3.2 to autonomously extract structured Promise-to-Pay data from unstructured audio.
-
-### AlgoPlay — Gamified DSA Learning Platform
-*TypeScript, Next.js, React, Supabase, Tailwind CSS*
-*   **Product Design:** Built and shipped a production-ready platform teaching algorithms through interactive games (Sudoku, Minesweeper) instead of static tutorials.
-*   **Adaptive Learning:** Integrated AI-generated hints and real-time adaptive quizzes that personalize difficulty based on learner progress.
-
-### HelpBuddy — Neighbourhood Exchange Platform
-*TypeScript, MySQL, CSS*
-*   **Trust Mechanism:** Designed a "Credit & Debt" reputation system incentivizing cashless neighbour-to-neighbour help exchanges.
-*   **Marketplace UX:** Built a dual-role interface allowing users to seamlessly toggle between Helper and Provider within the marketplace.
-
----
-
-## Experience & Impact
-
-**Project Intern | ChakraDialogues Foundation** (Jun 2025 – Aug 2025)
-*   **AI Tourist Monitoring & Alert System:** Engineered a CNN-based face-detection pipeline robust to variable lighting, enabling continuous tracking across multiple camera feeds.
-*   **Automated Compliance:** Designed stateful dwell-time tracking from Unix-timestamp deltas to auto-detect overstays, providing a zero-touch compliance workflow.
-*   **Real-Time Response:** Shipped an alert engine cutting incident response time from manual review to real-time by flagging safety-threshold breaches instantly.
-
-**Volunteer Python Instructor | Gopali Ashram** (Jun 2025)
-*   Taught Python fundamentals to underprivileged children; within a month, students were independently building calculators and working with complex logic.
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <em>Looking for roles where rapid execution and deep technical foundations create immediate impact.</em>
-</div>
